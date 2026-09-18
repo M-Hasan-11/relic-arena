@@ -1,0 +1,29 @@
+# Generated / local
+.vercel/
+node_modules/
+.env*
+!.env.example
+Builds/
+*.zip
+*.log
+*.tmp
+.DS_Store
+# Unity
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/MemoryCaptures/
+**/Recordings/
+**/Build/
+*.csproj
+*.sln
+*.suo
+# Licensed source dependencies: obtain separately.
+game/Assets/Blink/
+game/Assets/ThirdParty/
+game/Assets/Materials/StoreAdapted/
+game/Assets/Prefabs/
+game/Assets/Animation/
+game/Assets/Scenes/

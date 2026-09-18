@@ -1,0 +1,67 @@
+PASS Attack animates humanoid bones
+PASS Attack2 animates humanoid bones
+PASS Dodge animates humanoid bones
+PASS Pulse animates humanoid bones
+PASS Humanoid avatar is valid
+PASS Adobe Mixamo clips connected to live controller
+PASS Three level layouts and skies connected
+PASS Player grounded on arena collider
+PASS Keyboard input moves swept character controller
+PASS Locomotion blend follows actual velocity
+PASS Sword damage waits for swing impact
+PASS Sword impact damages target
+PASS Attack animation is playing
+PASS Dodge grants invulnerability
+PASS Roll animation continues after movement burst
+PASS Damage resumes after dodge
+PASS Shockwave damages enemies
+PASS Shockwave casting animation plays
+PASS Shockwave respects cooldown
+PASS Pause freezes simulation
+PASS Resume restores simulation
+PASS Solid cover prevents penetration and climbing while sliding
+PASS Gravity keeps player on ground
+PASS Arena boundary contains large movement
+PASS Cover intercepts projectile before player
+PASS Ranged AI fires damaging projectile
+PASS Ranged AI maintains distance
+PASS Boss telegraph resolves into damaging slam
+PASS Boss enters enraged phase below half health
+PASS Boss remains damageable while enraged
+PASS Sword blessing upgrades damage
+PASS Vitality blessing upgrades cap
+PASS Storm blessing upgrades cooldown
+PASS Campaign starts with four enemies
+PASS Encounter 1 progresses
+PASS Third kill drops healing relic
+PASS Healing relic restores 20 health
+PASS Encounter 1 offers blessing
+PASS Correct level layout active after transition
+PASS Encounter 2 progresses
+PASS Encounter 2 offers blessing
+PASS Correct level layout active after transition
+PASS Encounter 3 progresses
+PASS Level 1 has a boss
+PASS Encounter 3 offers blessing
+PASS Correct level layout active after transition
+PASS Encounter 4 progresses
+PASS Encounter 4 offers blessing
+PASS Correct level layout active after transition
+PASS Encounter 5 progresses
+PASS Encounter 5 offers blessing
+PASS Correct level layout active after transition
+PASS Encounter 6 progresses
+PASS Level 2 has a boss
+PASS Encounter 6 offers blessing
+PASS Correct level layout active after transition
+PASS Encounter 7 progresses
+PASS Encounter 7 offers blessing
+PASS Correct level layout active after transition
+PASS Encounter 8 progresses
+PASS Encounter 8 offers blessing
+PASS Correct level layout active after transition
+PASS Encounter 9 progresses
+PASS Level 3 has a boss
+PASS Nine encounters and three bosses complete campaign
+PASS Defeat ends session
+PASS Restart resets campaign and upgrades

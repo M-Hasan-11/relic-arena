@@ -1,0 +1,9 @@
+* text=auto
+*.cs text eol=lf
+*.md text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.fbx binary
+*.blend binary
+*.png binary

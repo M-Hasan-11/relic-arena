@@ -1,0 +1,7 @@
+120 rendered frames during live encounter
+Mean: 16.68 ms
+Approximate FPS: 60.0
+95th percentile: 16.70 ms
+Resolution: 1440 x 900
+GPU: Intel(R) Graphics
+Not a full hardware benchmark.
