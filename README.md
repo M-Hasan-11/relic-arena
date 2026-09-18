@@ -3,7 +3,7 @@
 A free Windows third-person action arena built with Unity and Blender. Fight through three realms, nine encounters, and three bosses.
 
 - **Download:** https://github.com/M-Hasan-11/relic-arena/releases/latest
-- **Website:** deployment URL will be recorded after publishing.
+- **Website:** https://relic-arena.vercel.app
 - **Controls:** WASD move, mouse look, left click/J sword, Space dodge, Q shockwave, Escape pause.
 
 ## Play on Windows
